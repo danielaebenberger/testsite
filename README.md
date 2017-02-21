@@ -15,15 +15,15 @@ Subsection INTRANET:
 Only accessible for users (besides subpage Technology Trends)
 PAGE Intranet
 	Paragraphs with visibility conditions
-	* Paragraph 1: not visible - visibility outdated
-	* Paragraph 2: visible (1 of 2 conditions matching)
-	* Paragraph 3: not visible - (all conditions should match - only 1 of 2)
+	*Paragraph 1: not visible - visibility outdated
+	*Paragraph 2: visible (1 of 2 conditions matching)
+	*Paragraph 3: not visible - (all conditions should match - only 1 of 2)
 
 
 PAGE Downloads
-	* column1: files for all users
-	* column2: images for all users
-	* column3: files & images only for group “Management”
+	*column1: files for all users
+	*column2: images for all users
+	*column3: files & images only for group “Management”
 
 PAGE Boards (blog-home)
 	* containing Blogs in live (UGC)
