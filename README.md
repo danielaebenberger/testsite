@@ -1,8 +1,10 @@
-Digitall-Demo Site as search site:
 
-Precondition:
+------------------------------------
+DIGITALL - DEMO SEARCH SITE
+------------------------------------
+
+PRECONDITION:
 Deploy the customized module dx-base-demo-templates (from same git-source as the demo-site) and LDAP-provider from RQA5
-
 
 The site is based on the digitall demo site, but has some extra content under section “Intranet”:
 
