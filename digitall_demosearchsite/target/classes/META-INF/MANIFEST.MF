@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1487677187503
+Build-Jdk: 1.8.0_45
+Built-By: danielaebenberger1
+Bundle-Category: jahia-module
+Bundle-Description: This module enables prepackaged Digitall Demo Websit
+ e for use in Web Projects in the Server Settings.
+Bundle-DocURL: http://www.jahia.com
+Bundle-ManifestVersion: 2
+Bundle-Name: Digitall Demo
+Bundle-SymbolicName: digitall
+Bundle-Vendor: Jahia Solutions Group SA
+Bundle-Version: 1.0.3.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Dynamic-ImportPackage: *
+Implementation-Title: Digitall Demo
+Implementation-URL: http://www.jahia.com
+Implementation-Vendor: Jahia Solutions Group SA
+Implementation-Version: 1.0.3-SNAPSHOT
+Import-Package: org.jahia.services,org.apache.naming.java,org.jahia.defa
+ ults.config.spring,org.jahia.exceptions
+Jahia-Depends: default
+Jahia-Download-Sources-Available: true
+Jahia-GroupId: org.jahia.modules
+Jahia-Module-Type: system
+Jahia-Required-Version: 7.1.1.0
+Jahia-Source-Control-Connection: scm:git:git@github.com:Jahia/digitall.g
+ it
+Jahia-Source-Control-DeveloperConnection: scm:git:git@github.com:Jahia/d
+ igitall.git
+Jahia-Source-Control-Tag: HEAD
+Jahia-Source-Folders: /Users/danielaebenberger1/Documents/RESOURCES/00_T
+ EMP/digitall_demosearchsite
+Jahia-Static-Resources: /css,/icons,/images,/img,/javascript
+Specification-Title: Digitall Demo
+Specification-Vendor: Jahia Solutions Group SA
+Specification-Version: 1.0.3-SNAPSHOT
+Tool: Bnd-2.3.0.201405100607
